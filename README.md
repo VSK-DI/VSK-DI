@@ -25,6 +25,8 @@
 <img aline="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+![programmer](https://github.com/user-attachments/assets/5dab0ee5-a422-4605-b5ab-d543744fdff8)
+
 ---
 Knowledge is a paradox: the more a person understands, the more he realizes the vastness of his own ignorance.
 ---
