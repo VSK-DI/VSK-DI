@@ -16,11 +16,6 @@
   />
 </picture>
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=VSK-DI&show_icons=true&theme=radical)
-
-
-![programmer](https://github.com/user-attachments/assets/5dab0ee5-a422-4605-b5ab-d543744fdff8)
-
 ---
 Knowledge is a paradox: the more a person understands, the more he realizes the vastness of his own ignorance.
 ---
